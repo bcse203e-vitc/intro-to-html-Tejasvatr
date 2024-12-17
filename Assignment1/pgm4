@@ -1,0 +1,16 @@
+<html>
+    <head>
+            <title>
+                Tejasvat R
+            </title>
+    </head>
+
+    <body>
+        <h> 4 sentences with different font below</h>
+        <p style="font-family:tahoma">Two roads diverged in a yellow wood</p>
+        <p style="font-family:franklin gothic medium">And sorry I could not travel both</p>
+        <p style="font-family:arial">And be one traveler, long I stood</p>
+        <p style="font-family:geneva">And looked down one as far as I could</p>
+    </body>
+
+</html>
