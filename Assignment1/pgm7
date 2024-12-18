@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>
+            Tejasvat
+        </title>
+    </head>
+    <body>
+        <h1>Unalphabetized List</h1>
+        <p>
+            John<sub>5</sub><br>
+            Ananth<sub>1</sub><br>
+            Victor<sub>10</sub><br>
+            Peter<sub>8</sub><br>
+            Emma<sub>3</sub><br>
+            Mary<sub>6</sub><br>
+            Oliver<sub>7</sub><br>
+            Sanjay<sub>9</sub><br>
+            Brian<sub>2</sub><br>
+            Fakir<sub>4</sub>
+        </p>
+        <h1>Alphabetized List</h1>
+        <p>
+            Ananth<sub>1</sub><br>
+            Brian<sub>2</sub><br>
+            Emma<sub>3</sub><br>
+            Fakir<sub>4</sub><br>
+            John<sub>5</sub><br>
+            Mary<sub>6</sub><br>
+            Oliver<sub>7</sub><br>
+            Peter<sub>8</sub><br>
+            Sanjay<sub>9</sub><br>
+            Victor<sub>10</sub>
+        </p>
+    </body>
+</html>
