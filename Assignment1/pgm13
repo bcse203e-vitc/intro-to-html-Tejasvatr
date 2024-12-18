@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>
+            Tejasvat
+        </title>
+    </head>
+    <body>
+        <h>
+            Delete and Insert
+        </h>
+        <p>An <del>Avocado</del><ins> Apple</ins> a day, keeps the doctor away.</p>
+        <p>He went to the <del> hospital </del><ins> station.</ins> </p>
+
+    </body>
+</html>
