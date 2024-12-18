@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>
+            Tejasvat
+        </title>
+    </head>
+    <body>
+        <h1>
+            Ordered List:
+        </h1>
+        <ol>
+            <li>Strawberry</li>
+            <li>Mango</li>
+            <li>Apple</li>
+            <li>Banana</li>
+            <li>Jackfruit</li>
+        </ol>
+        <h1>
+            Unordered list:
+        </h1>
+        <ul>
+            <li>Hydrogen</li>
+            <li>Carbon</li>
+            <li>Lithium</li>
+            <li>Boron</li>
+            <li>Mercury</li>
+
+        </ul>
+    </body>
+</html>
