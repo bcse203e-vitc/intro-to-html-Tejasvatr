@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            Tejasvat
+        </title>
+    </head>
+    <body>
+        <h>
+            Definition List
+        </h>
+
+        <dl>
+            <dt>Conspicuous</dt>
+            <dd>Means standing out so as to be clearly visible. It is usually used in a negative manner.</dd>
+            <dt>Ubiquitous</dt>
+            <dd>Means being present everywhere at once.</dd>
+            <dt>Fetter</dt>
+            <dd>Means a shackle for the ankles or feet</dd>
+            <dt>Abundance</dt>
+            <dd>Means to express gratitude for the abundance in your life.</dd>
+            <dt>Garrulous:</dt>
+            <dd>Means to describe talkative individuals or situations.</dd>
+        </dl>
+    </body>
+</html>
