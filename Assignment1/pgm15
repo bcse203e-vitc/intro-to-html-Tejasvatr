@@ -1,0 +1,25 @@
+<html>
+<head>
+    
+    <title>Tejasvat</title>
+</head>
+<body>
+    <div style="width: 600px; height: 600px; padding: 20px;">
+        <div style="float: left; font-size: 14px;">
+            Ram<br>
+            Kanni Street, Tambaram<br>
+            Chennai, Tamil Nadu 600013<br>
+            India<br>
+        </div>
+        
+        <div style="text-align: center; margin-top: 100px; font-size: 16px;">
+            Shyam<br>
+            Pratap Nagar<br>
+            Delhi, 110041<br>
+            India<br>
+        </div>
+    </div>
+</body>
+</html>
+
+
